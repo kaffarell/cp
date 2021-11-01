@@ -1,3 +1,6 @@
+// 1604A Codeforces Round #752 (Div. 2)
+// https://codeforces.com/problemset/problem/1604/A
+
 #include <bits/stdc++.h>
 
 using namespace std;
